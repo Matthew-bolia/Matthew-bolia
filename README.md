@@ -20,5 +20,5 @@ Me contacter :
 - LinkedIn : 
 - Disponibilité : Ouvert aux missions en Freelance (Local & Remote)
 
-Statistiques GitHub :
+Statistiques GitHub : www.linkedin.com/in/matthew-bolia-4139a5380
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthew-bolia&show_icons=true&theme=radical)
