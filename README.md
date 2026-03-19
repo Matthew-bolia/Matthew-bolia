@@ -1,16 +1,24 @@
-## Hi there 👋
+ Salut !  Moi c'est Matthew Bolia
 
-<!--
-**Matthew-bolia/Matthew-bolia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur Flutter | Spécialiste Mobile & Solutions Digitales
+Basé en RDC (Républic Démocratique Du Congo), je construis des applications mobiles performantes, fluides et adaptées aux réalités du marché africain (Fintech, E-commerce, Offline-first).
 
-Here are some ideas to get you started:
+Ce que je maîtrise :
+- Framework : Flutter & Dart
+- Backend : Firebase, Supabase et Node.Js
+- Gestion d'état : Riverpod / Bloc
+- Localisation : Intégration de cartes et services de proximité
+- Paiements :  Mobile Money (M-Pesa, Orange Money, Airtel Money)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mes Objectifs en 2026 :
+- Développer des solutions MVP pour les startups locales et internationales.
+- Collaborer sur des projets Open Source à fort impact.
+- Optimiser l'expérience utilisateur pour les connexions instables.
+
+Me contacter :
+- Email : mathiasbolia82@gmail.com
+- LinkedIn : 
+- Disponibilité : Ouvert aux missions en Freelance (Local & Remote)
+
+Statistiques GitHub :
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_ICI]&show_icons=true&theme=radical)
