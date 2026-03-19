@@ -1,4 +1,4 @@
- Salut !  Moi c'est Matthew-Bolia
+ Salut !  Moi c'est Matthew Bolia
 
 Développeur Flutter | Spécialiste Mobile & Solutions Digitales
 Basé en RDC (Républic Démocratique Du Congo), je construis des applications mobiles performantes, fluides et adaptées aux réalités du marché africain (Fintech, E-commerce, Offline-first).
@@ -21,4 +21,4 @@ Me contacter :
 - Disponibilité : Ouvert aux missions en Freelance (Local & Remote)
 
 Statistiques GitHub :
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[TON_PSEUDO_ICI]&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Matthew-bolia&show_icons=true&theme=radical)
