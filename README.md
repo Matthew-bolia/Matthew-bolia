@@ -6,7 +6,7 @@ Basé en RDC (Républic Démocratique Du Congo), je construis des applications m
 Ce que je maîtrise :
 <p align="left">
 <img 
-src="https://skillicons.dev/icons?i=dart,flutter,firebase,serverpod,html,css,js,postgresql,docker,git,github" />
+src="https://skillicons.dev/icons?i=dart,flutter,firebase,serverpod,html,css,js,postgresql,docker,git,github" width="800"/>
 </p>
 
 Mes Objectifs en 2026 :
