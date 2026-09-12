@@ -4,12 +4,8 @@ Développeur Flutter | Spécialiste Mobile & Solutions Digitales
 Basé en RDC (Républic Démocratique Du Congo), je construis des applications mobiles performantes, fluides et adaptées aux réalités du marché africain (Fintech, E-commerce, Offline-first).
 
 Ce que je maîtrise :
-- ![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-- Backend : Firebase, Supabase et Node.Js
-- Gestion d'état : Riverpod / Bloc
-- Localisation : Intégration de cartes et services de proximité
-- Paiements :  Mobile Money (M-Pesa, Orange Money, Airtel Money)
-
+![Flutter](https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Serverpod](https://img.shields.io/badge/serverpod-02569B?style=for-the-badge&logo=serverpodr&logoColor=white)
 Mes Objectifs en 2026 :
 - Développer des solutions MVP pour les startups locales et internationales.
 - Collaborer sur des projets Open Source à fort impact.
