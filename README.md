@@ -1,6 +1,6 @@
- Salut !  Moi c'est Matthew Bolia
+Je suis Matthew Bolia
 
-Développeur Flutter | Spécialiste Mobile & Solutions Digitales
+Développeur web, mobile et UI/UX Designer | Spécialiste dans les Solutions Digitales
 Basé en RDC (Républic Démocratique Du Congo), je construis des applications mobiles performantes, fluides et adaptées aux réalités du marché africain (Fintech, E-commerce, Offline-first).
 
 Ce que je maîtrise :
